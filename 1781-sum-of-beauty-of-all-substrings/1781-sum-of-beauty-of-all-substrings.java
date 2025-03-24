@@ -1,27 +1,28 @@
 class Solution {
     public int beautySum(String s) {
         int beauty = 0;
+        int n = s.length();
 
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                beauty += countBeauty(s.substring(i, j + 1));
+        // Iterating over all possible starting values
+        for (int i = 0; i < n; i++) {
+            int[] freq = new int[26];
+
+            // Extending the substring from i to j
+            for (int j = i; j < n; j++) {
+                freq[s.charAt(j) - 'a']++;
+
+                beauty += getBeauty(freq);
             }
         }
 
         return beauty;
     }
 
-    private int countBeauty(String s) {
-        int[] freq = new int[26];
-
-        for (char ch : s.toCharArray()) {
-            freq[ch - 'a']++;
-        }
-
+    public int getBeauty(int[] freq) {
         int maxFreq = 0, minFreq = Integer.MAX_VALUE;
 
         for (int f : freq) {
-            if (f > 0) { // Ignoring zeroes
+            if (f > 0) {
                 maxFreq = Math.max(maxFreq, f);
                 minFreq = Math.min(minFreq, f);
             }
