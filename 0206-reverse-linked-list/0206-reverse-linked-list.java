@@ -1,34 +1,29 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode() {}
- * ListNode(int val) { this.val = val; }
- * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if (head == null) return null;
+        // Three Pointer Approach
 
-        Stack<ListNode> stack = new Stack<>();
-        ListNode copy = head;
+        ListNode prev = null;
+        ListNode curr = head;
 
-        while (copy != null){
-            stack.push(copy);
-            copy = copy.next;
+        while (curr != null){
+            ListNode next = curr.next;
+            curr.next = prev;
+
+            // Kaam Khatam Baabbe
+            prev = curr;
+            curr = next;
         }
 
-        ListNode newRoot = stack.pop();
-        copy = newRoot;
-        
-        while (!stack.isEmpty()){
-            copy.next = stack.pop();
-            copy = copy.next;
-        }
-
-        copy.next = null;
-        return newRoot;
+        return prev;    // New Root
     }
 }
