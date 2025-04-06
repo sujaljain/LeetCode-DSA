@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/sujaljain/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
