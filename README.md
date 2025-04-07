@@ -39,10 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sujaljain/LeetCode-DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sujaljain/LeetCode-DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 ## String
 |  |
