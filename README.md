@@ -51,12 +51,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sujaljain/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
