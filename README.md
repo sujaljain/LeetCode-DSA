@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sujaljain/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/sujaljain/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
