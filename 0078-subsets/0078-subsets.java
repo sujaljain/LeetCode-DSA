@@ -1,27 +1,22 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        solve(0, nums, temp, result);
 
-        return result;
-    }
+        int n = nums.length;
 
-    public void solve(int index, int[] nums, List<Integer> temp, List<List<Integer>> result) {
-        if (index >= nums.length) {
-            result.add(new ArrayList<>(temp));
-            return;
+        for (int num = 0; num < Math.pow(2, n); num++) {
+            List<Integer> subSet = new ArrayList<>();
+
+            for (int i = 0; i < n; i++) {
+                //check if the ith bit is set or not
+                if ((num & (1 << i)) != 0) {
+                    subSet.add(nums[i]);
+                }
+            }
+
+            result.add(subSet);
         }
 
-        // Exclusive Recursive Call
-        solve(index + 1, nums, temp, result);
-
-        // Inclusive Recursive Call
-        int element = nums[index];
-        temp.add(element);
-        solve(index + 1, nums, temp, result);
-
-        // Backtrack
-        temp.remove(temp.size() - 1);
+        return result;
     }
 }
