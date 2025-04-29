@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sujaljain/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0371-sum-of-two-integers](https://github.com/sujaljain/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0371-sum-of-two-integers](https://github.com/sujaljain/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
