@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/sujaljain/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sujaljain/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/sujaljain/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
