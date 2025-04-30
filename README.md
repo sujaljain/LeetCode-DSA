@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -57,11 +58,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sujaljain/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sujaljain/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
