@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sujaljain/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/sujaljain/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sujaljain/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/sujaljain/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
