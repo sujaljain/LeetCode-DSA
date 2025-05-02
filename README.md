@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
