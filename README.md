@@ -31,12 +31,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sujaljain/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujaljain/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sujaljain/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujaljain/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
@@ -104,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sujaljain/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
