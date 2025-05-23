@@ -100,16 +100,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/sujaljain/LeetCode-DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/sujaljain/LeetCode-DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/sujaljain/LeetCode-DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Number Theory
 |  |
 | ------- |
