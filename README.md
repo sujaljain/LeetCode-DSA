@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [1306-minimum-absolute-difference](https://github.com/sujaljain/LeetCode-DSA/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
+| [1306-minimum-absolute-difference](https://github.com/sujaljain/LeetCode-DSA/tree/master/1306-minimum-absolute-difference) |
 ## Trie
 |  |
 | ------- |
