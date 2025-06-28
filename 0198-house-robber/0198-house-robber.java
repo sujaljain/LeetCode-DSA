@@ -10,11 +10,32 @@ class Solution {
         // return rob_memoisation(n-1, nums, dp);
 
         // Tabulation - (BOTTOMS-UP!)
-        return rob_tabulation(n, nums);
+        // return rob_tabulation(nums, n);
+
+        // Finally, the most efficient one --> T.C = O(n), S.C = O(n)
+        return space_optimised(nums, n);
 
     }
 
-    private int rob_tabulation(int n, int[] nums) {
+    private int space_optimised(int[] nums, int n) {
+        int prev = nums[0];
+        int prev2 = 0;
+
+        for (int i = 1; i < n; i++) {
+            int take = nums[i];
+            if (i > 1)
+                take += prev2;
+            int notTake = 0 + prev;
+            int curr = Math.max(take, notTake);
+
+            prev2 = prev;
+            prev = curr;
+        }
+
+        return prev;
+    }
+
+    private int rob_tabulation(int[] nums, int n) {
         int[] dp = new int[n];
         dp[0] = nums[0];
 
@@ -22,12 +43,12 @@ class Solution {
             int take = nums[i];
             if (i > 1)
                 take += dp[i - 2];
-            int notTake = 0 + dp[i-1];
+            int notTake = 0 + dp[i - 1];
 
             dp[i] = Math.max(take, notTake);
         }
 
-        return dp[n-1];
+        return dp[n - 1];
     }
 
     private int rob_memoisation(int idx, int[] nums, int[] dp) {
