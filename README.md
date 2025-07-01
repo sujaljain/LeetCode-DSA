@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/sujaljain/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/sujaljain/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/sujaljain/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sujaljain/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/sujaljain/LeetCode-DSA/tree/master/1306-minimum-absolute-difference) |
