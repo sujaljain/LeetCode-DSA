@@ -1,27 +1,21 @@
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
-        int n = arr.length;
-        int maxPeak = arr[0];
-        int maxPeakIdx = 0;
+        int start = 0;
+        int end = arr.length-1;
 
-        for (int i = 1; i < n - 1; i++) {
-            // if (i == 0 && arr[0] > arr[1])
-            if (arr[i - 1] < arr[i] && arr[i] > arr[i + 1]) {
-                int peak = arr[i];
-                if (peak > maxPeak) {
-                    maxPeak = peak;
-                    maxPeakIdx = i;
-                }
+        while (start < end){
+            int mid = start + (end - start)/2;
+
+            if (arr[mid] < arr[mid+1]){
+                // We are on the increasing part of the mountain
+                start = mid+1;
             }
-            if (i == n - 2 && arr[i] < arr[i + 1]) {
-                int peak = arr[i+1];
-                if (peak > maxPeak) {
-                    maxPeak = peak;
-                    maxPeakIdx = i;
-                }
+            else {
+                // Either we are on the decreasing side or the PEAK itself!
+                end = mid;
             }
         }
 
-        return maxPeakIdx;
+        return start;   // s==e
     }
 }
