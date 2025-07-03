@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sujaljain/LeetCode-DSA/tree/master/0155-min-stack) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sujaljain/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sujaljain/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
