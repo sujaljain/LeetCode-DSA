@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sujaljain/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujaljain/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/sujaljain/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
@@ -203,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/sujaljain/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujaljain/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sujaljain/LeetCode-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
