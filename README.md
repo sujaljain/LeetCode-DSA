@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/sujaljain/LeetCode-DSA/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sujaljain/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujaljain/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
