@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/sujaljain/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/sujaljain/LeetCode-DSA/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sujaljain/LeetCode-DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/sujaljain/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Matrix
 |  |
