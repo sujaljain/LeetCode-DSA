@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sujaljain/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sujaljain/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sujaljain/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/sujaljain/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sujaljain/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sujaljain/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
