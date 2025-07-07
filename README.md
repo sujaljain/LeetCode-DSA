@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljain/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sujaljain/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sujaljain/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sujaljain/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sujaljain/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sujaljain/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sujaljain/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljain/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sujaljain/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujaljain/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/sujaljain/LeetCode-DSA/tree/master/1306-minimum-absolute-difference) |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/sujaljain/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujaljain/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sujaljain/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sujaljain/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
