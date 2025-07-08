@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/sujaljain/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sujaljain/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/sujaljain/LeetCode-DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
