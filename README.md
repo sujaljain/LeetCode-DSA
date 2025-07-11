@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljain/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujaljain/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sujaljain/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sujaljain/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujaljain/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/sujaljain/LeetCode-DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sujaljain/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,4 +236,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sujaljain/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
