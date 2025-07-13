@@ -1,25 +1,43 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int left = 0, right = 0;
+        int l = 0, r = 0, n = s.length();
+        int maxLen = 0;
+
         HashMap<Character, Integer> map = new HashMap<>();
-        int maxLength = 0;
 
-        while (right < s.length()) {
-
-            char ch = s.charAt(right);
+        while (r < n) {
+            char ch = s.charAt(r);
 
             if (map.containsKey(ch)) {
-                // Update left pointer
-                left = Math.max(left, map.get(ch) + 1);
+                l = Math.max(l, map.get(ch) + 1);
             }
 
-            map.put(ch, right);
-
-            // Update MaxLength
-            maxLength = Math.max(maxLength, right - left + 1);
-            right++;
+            map.put(ch, r);
+            int len = r - l + 1;
+            maxLen = Math.max(len, maxLen);
+            r++;
         }
 
-        return maxLength;
+        return maxLen;
     }
+
+    // Brute Force
+    // public int lengthOfLongestSubstring(String s) {
+    //     int maxLen = 0;
+    //     int n = s.length();
+
+    //     for (int i=0; i<n; i++){
+    //         boolean hash[] = new boolean[256];
+    //         for (int j=i; j<n; j++){
+    //             int ascii = s.charAt(j);
+    //             if (hash[ascii] == true)
+    //             break;
+    //             int len = j-i+1;
+    //             maxLen = Math.max(len, maxLen);
+    //             hash[ascii] = true;
+    //         }
+    //     }
+
+    //     return maxLen;
+    // }
 }
