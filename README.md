@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sujaljain/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sujaljain/LeetCode-DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/sujaljain/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujaljain/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sujaljain/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/sujaljain/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujaljain/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sujaljain/LeetCode-DSA/tree/master/0278-first-bad-version) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sujaljain/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sujaljain/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
