@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sujaljain/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujaljain/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sujaljain/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sujaljain/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujaljain/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sujaljain/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sujaljain/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sujaljain/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/sujaljain/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sujaljain/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sujaljain/LeetCode-DSA/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
