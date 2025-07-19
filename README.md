@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sujaljain/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sujaljain/LeetCode-DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/sujaljain/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 ## String
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sujaljain/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sujaljain/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sujaljain/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Breadth-First Search
