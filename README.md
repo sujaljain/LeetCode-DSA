@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sujaljain/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sujaljain/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sujaljain/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sujaljain/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sujaljain/LeetCode-DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/sujaljain/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sujaljain/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sujaljain/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sujaljain/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sujaljain/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sujaljain/LeetCode-DSA/tree/master/0072-edit-distance) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sujaljain/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljain/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
