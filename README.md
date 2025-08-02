@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujaljain/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujaljain/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sujaljain/LeetCode-DSA/tree/master/0036-valid-sudoku) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sujaljain/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sujaljain/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sujaljain/LeetCode-DSA/tree/master/0143-reorder-list) |
