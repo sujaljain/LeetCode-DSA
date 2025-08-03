@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sujaljain/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sujaljain/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujaljain/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sujaljain/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sujaljain/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sujaljain/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujaljain/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Backtracking
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sujaljain/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujaljain/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
