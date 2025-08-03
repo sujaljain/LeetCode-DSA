@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujaljain/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sujaljain/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sujaljain/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/sujaljain/LeetCode-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/sujaljain/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sujaljain/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/sujaljain/LeetCode-DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
