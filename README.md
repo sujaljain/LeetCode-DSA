@@ -345,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujaljain/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sujaljain/LeetCode-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
