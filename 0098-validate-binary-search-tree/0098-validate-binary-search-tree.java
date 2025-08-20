@@ -1,40 +1,24 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// class TreeNode {
+//     int val;
+//     TreeNode left;
+//     TreeNode right;
+//     TreeNode(int val) { this.val = val; }
+// }
+
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        if (root == null){
-            return true;
-        }
-
-        return checkLeft(root.left, root.val) && checkRight(root.right, root.val);
+        return isValid(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    private boolean checkLeft(TreeNode node, int val){
-        if (node == null){
-            return true;
+    private boolean isValid(TreeNode node, long min, long max) {
+        if (node == null) {
+            return true; // An empty node is a valid BST
         }
-
-        return (node.val < val) && checkLeft(node.left, node.val) && checkRight(node.right, node.val);
-    }
-
-    private boolean checkRight(TreeNode node, int val){
-        if (node == null){
-            return true;
+        
+        if (node.val <= min || node.val >= max) {
+            return false;
         }
-
-        return (node.val > val) && checkRight(node.right, node.val) && checkLeft(node.left, node.val);
+        
+        return isValid(node.left, min, node.val) && isValid(node.right, node.val, max);
     }
 }
